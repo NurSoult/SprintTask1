@@ -1,0 +1,25 @@
+body {
+	font-family: "Arial";
+}
+.shapka {
+	background-color: #a82514;
+	min-height: 50px;
+}
+.podshapka {
+	display: flex; 
+	color: white; 
+	padding: 20px;
+}
+.mainNews {
+	margin-top: 10px;
+	background-color: #34ebe8;
+	display: flex;
+	padding: 20px;
+}
+.khab {
+	width: 500px;
+	height: 300px;
+}
+.textIMG {
+	margin-left: 20px;
+}
